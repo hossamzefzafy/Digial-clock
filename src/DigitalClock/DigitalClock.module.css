@@ -1,0 +1,26 @@
+body{
+   
+    background-image: url(../assets/windows-xp-bliss-4k-lu-1920x1080.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 500px;
+    height: 200px;
+    color: white;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: 3px 3px 5px black ;
+    font-weight: bold;
+    font-family: monospace;
+    backdrop-filter: blur(2px);
+
+}
